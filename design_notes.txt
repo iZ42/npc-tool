@@ -1,0 +1,15 @@
+Bank and Guide contain Items 
+
+Overall: 
+- Bible passage or topic as the header
+- Retrieve relevant 
+
+Guide: 
+- Saves a list of question _ids
+- On componentDidMount, retrieves questions in list, in order 
+- 
+
+Operation: 
+- Default load value is Genesis 1 
+- Genesis 1 questions load 
+- Search box populates 

@@ -1,0 +1,15 @@
+Check for duplicate project name when adding, compare standardised lowercase titles
+
+Sort dropdown selection alphabetically
+
+limit number of NPS decimal places 
+
+AddProject to use axios instead to post
+
+Downloadable PDF possible solutions: 
+-> Client-side: 
+    https://www.npmjs.com/package/react-component-export-image
+    https://www.falkjohansson.se/post/making-pdf-files-from-chartjs-charts-in-a-react-app/ 
+    https://blog.risingstack.com/pdf-from-html-node-js-puppeteer/
+    https://steemit.com/utopian-io/@cutemachine/how-to-render-a-react-component-to-an-image
+-> Server-side: 
